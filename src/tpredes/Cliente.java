@@ -2,7 +2,6 @@
  * To change this license header, choose License Headers in Project Properties.
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
- teste github
  */
 package tpredes;
 
@@ -29,6 +28,7 @@ public class Cliente extends javax.swing.JFrame {
     
     private boolean isOponentConected = false;
     private boolean isServerConected = false;
+    private String vamosComer="daki a pouco";
     
     private Socket cliente;
     
