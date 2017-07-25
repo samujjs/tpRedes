@@ -28,6 +28,7 @@ public class Cliente extends javax.swing.JFrame {
     
     private boolean isOponentConected = false;
     private boolean isServerConected = false;
+    private String vamosComer="daki a pouco";
     
     private Socket cliente;
     
